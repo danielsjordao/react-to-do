@@ -123,10 +123,10 @@ function App() {
           <h3 className={todo.done ? "todo-done" : ""}>{todo.title}</h3>
           <p>Duração: {todo.time}</p>
               <div className="actions">
-                <span onClick={() => handleDone(todo)}>
+                <span className="checked" onClick={() => handleDone(todo)}>
                   {!todo.done ? <BsBookmarkCheck /> : <BsBookmarkCheckFill />}
                 </span>
-                <BsTrash onClick={() => handleDelete(todo.id)} />
+                <BsTrash className="delete" onClick={() => handleDelete(todo.id)} />
               </div>
         </div>
       ))}

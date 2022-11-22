@@ -14,6 +14,9 @@
 
 .todo-header h1 {
   margin: 0;
+  color: rgb(167, 167, 167);
+  font-style: italic;
+
 }
 
 .form-todo {
@@ -83,7 +86,7 @@ input[type="submit"] {
 
 .todo-done {
   text-decoration: line-through;
-  color: rgb(240, 98, 146);
+  color: rgb(239, 08, 08);
 }
 
 .todo p {
@@ -100,6 +103,14 @@ input[type="submit"] {
   transition: .5s; 
 }
 
-.todo svg:hover {
-  color: rgb(240, 98, 146);
+/*.todo svg:hover {
+  color: rgb(239, 08, 08);
+}*/
+
+.actions .checked:hover svg {
+  color: rgb(52, 239, 08);
+}
+
+.todo svg.delete:hover {
+  color: rgb(239, 08, 08);
 }
