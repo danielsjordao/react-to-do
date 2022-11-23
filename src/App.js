@@ -1,8 +1,8 @@
 import "./App.css";
-import { useState, useEffect } from "react";
+import { useEffect, useState } from "react";
 import { BsTrash, BsBookmarkCheck, BsBookmarkCheckFill } from "react-icons/bs";
 
-const API = "http://localhost:3000";
+const API = "http://localhost:5000";
 
 function App() {
   const [title, setTitle] = useState("");
@@ -17,7 +17,7 @@ function App() {
 
       const res = await fetch(API + "/todos")
       .then((res) => res.json())
-      .then(data => data)
+      .then((data) => data)
       .catch((err) => err);
 
       setLoading(false);
@@ -85,7 +85,7 @@ function App() {
   return (
     <div className="App">
       <div className="todo-header">
-        <h1>React To Do</h1>
+        <h1>React To Do List</h1>
       </div>
       <div className="form-todo">
         <h2>Insira a sua próxima tarefa:</h2>
