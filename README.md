@@ -1,3 +1,21 @@
+### Imagem inicial do React To Do
+![image1](https://user-images.githubusercontent.com/101356855/203968491-1fd141b2-b41e-4a84-850f-78ecb76c4bb3.png)
+
+### Criando uma Tarefa - Ambiente usuário
+![image2](https://user-images.githubusercontent.com/101356855/203968532-44421601-10b3-4dc6-840b-3e58bfb018f1.png)
+
+### Inserindo Checked na Tarefa - Ambiente usuário
+![image3](https://user-images.githubusercontent.com/101356855/203968570-bc88db48-147a-4560-9252-bcc2d560e873.png)
+
+### Criando uma Tarefa - Ambiente Desenvolvedor Network
+![image4_created](https://user-images.githubusercontent.com/101356855/203968735-f1e1d098-4551-409c-b073-d4307ec40fd5.png)
+
+### Check na tarefa concluída - Ambiente Desenvolvedor Network
+![image4_done](https://user-images.githubusercontent.com/101356855/203968915-4243a1ef-bdaa-4460-9a13-935ff99f68ef.png)
+
+### Deletando a Tarefa - Ambiente Desenvolvedor Network
+![image4_delete](https://user-images.githubusercontent.com/101356855/203969069-9a568359-7607-4dab-a436-19ef2584cbce.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
