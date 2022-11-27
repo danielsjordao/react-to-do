@@ -1,5 +1,3 @@
-### Demo
-
 
 ### Imagem inicial do React To Do
 ![image1](https://user-images.githubusercontent.com/101356855/203968491-1fd141b2-b41e-4a84-850f-78ecb76c4bb3.png)
