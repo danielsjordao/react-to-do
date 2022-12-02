@@ -1,7 +1,7 @@
 ### Demo
 https://user-images.githubusercontent.com/101356855/204132351-1ef4e6fb-4d43-4ab7-8b67-bef1a947fc99.mp4
 
-### Imagem inicial do React To Do
+### Imagem inicial do React To Do List
 ![image1](https://user-images.githubusercontent.com/101356855/203968491-1fd141b2-b41e-4a84-850f-78ecb76c4bb3.png)
 
 ### Criando uma Tarefa - Ambiente usuário
