@@ -19,6 +19,10 @@ https://user-images.githubusercontent.com/101356855/204132351-1ef4e6fb-4d43-4ab7
 ### Deletando a Tarefa - Ambiente Desenvolvedor Network
 ![image4_delete](https://user-images.githubusercontent.com/101356855/203969069-9a568359-7607-4dab-a436-19ef2584cbce.png)
 
+### Agradecimentos
+
+Professor Matheus Battisti
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
