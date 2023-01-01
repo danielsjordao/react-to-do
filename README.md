@@ -23,7 +23,7 @@ https://user-images.githubusercontent.com/101356855/204132351-1ef4e6fb-4d43-4ab7
 
 Professor Matheus Battisti
 
-###React Standard Readme
+### React Standard Readme
 
 # Getting Started with Create React App
 
